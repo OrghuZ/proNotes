@@ -40,3 +40,23 @@ D:\WORK\ORCO\01 - Développement\011 - Dev WinPhone\proNotes\proNotes\obj\Debug\
 D:\WORK\ORCO\01 - Développement\011 - Dev WinPhone\proNotes\proNotes\obj\Debug\View\proNotesUserControl.g.cs
 D:\WORK\ORCO\01 - Développement\011 - Dev WinPhone\proNotes\proNotes\obj\Debug\View\proNotesUserControl.xaml
 D:\WORK\ORCO\01 - Développement\011 - Dev WinPhone\proNotes\proNotes\obj\Debug\View\proNotesUserControl.xbf
+C:\Work\99 - ORCO\DEV_Wp8.1\proNotes\proNotes\obj\Debug\App.g.i.cs
+C:\Work\99 - ORCO\DEV_Wp8.1\proNotes\proNotes\obj\Debug\App.g.cs
+C:\Work\99 - ORCO\DEV_Wp8.1\proNotes\proNotes\obj\Debug\MainPage.g.i.cs
+C:\Work\99 - ORCO\DEV_Wp8.1\proNotes\proNotes\obj\Debug\MainPage.g.cs
+C:\Work\99 - ORCO\DEV_Wp8.1\proNotes\proNotes\obj\Debug\View\proNotesUserControl.g.i.cs
+C:\Work\99 - ORCO\DEV_Wp8.1\proNotes\proNotes\obj\Debug\View\proNotesUserControl.g.cs
+C:\Work\99 - ORCO\DEV_Wp8.1\proNotes\proNotes\obj\Debug\View\proNotesView.g.i.cs
+C:\Work\99 - ORCO\DEV_Wp8.1\proNotes\proNotes\obj\Debug\View\proNotesView.g.cs
+C:\Work\99 - ORCO\DEV_Wp8.1\proNotes\proNotes\obj\Debug\XamlTypeInfo.g.cs
+C:\Work\99 - ORCO\DEV_Wp8.1\proNotes\proNotes\obj\Debug\App.xaml
+C:\Work\99 - ORCO\DEV_Wp8.1\proNotes\proNotes\obj\Debug\MainPage.xaml
+C:\Work\99 - ORCO\DEV_Wp8.1\proNotes\proNotes\obj\Debug\View\proNotesUserControl.xaml
+C:\Work\99 - ORCO\DEV_Wp8.1\proNotes\proNotes\obj\Debug\View\proNotesView.xaml
+C:\Work\99 - ORCO\DEV_Wp8.1\proNotes\proNotes\obj\Debug\App.xbf
+C:\Work\99 - ORCO\DEV_Wp8.1\proNotes\proNotes\obj\Debug\MainPage.xbf
+C:\Work\99 - ORCO\DEV_Wp8.1\proNotes\proNotes\obj\Debug\View\proNotesUserControl.xbf
+C:\Work\99 - ORCO\DEV_Wp8.1\proNotes\proNotes\obj\Debug\View\proNotesView.xbf
+C:\Work\99 - ORCO\DEV_Wp8.1\proNotes\proNotes\obj\Debug\XamlSaveStateFile.xml
+C:\Work\99 - ORCO\DEV_Wp8.1\proNotes\proNotes\obj\Debug\proNotes.exe
+C:\Work\99 - ORCO\DEV_Wp8.1\proNotes\proNotes\obj\Debug\proNotes.pdb

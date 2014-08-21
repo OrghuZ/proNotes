@@ -22,6 +22,8 @@
             HorizontalAlignment="Center" VerticalAlignment="Top"
             NavigateUri="View/proNotesView.xaml"
             >
+            
         </HyperlinkButton>
     </Grid>
+
 </Page>
